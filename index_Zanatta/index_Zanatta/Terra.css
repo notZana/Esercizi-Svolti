@@ -1,0 +1,32 @@
+.right
+{
+	text-align:right;
+	background-color: rgb(241, 241, 241);
+}
+
+.left
+{
+	background-color: rgb(245, 245, 245);
+	text-align:left;
+}
+.color:blue
+{
+	text-align:blue 
+}
+.background
+{
+	background:rgb(18, 30, 199);
+	}
+
+/* tabelle */
+#h
+{
+	border:1px solid;
+	text-align:center;
+
+}
+
+.title{
+	background:rgb(18, 30, 199);
+	color: rgb(243, 242, 242);
+}

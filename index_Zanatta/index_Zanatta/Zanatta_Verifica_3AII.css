@@ -1,0 +1,16 @@
+table{
+	margin:auto;
+	border:1px solid black;
+	border-collapse:collapse;
+	width:600px;
+	background-color:#dafbf0;
+}
+
+td{
+	border:1px solid black;
+	
+}
+.title{
+	text-align:center;
+	
+}
